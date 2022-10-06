@@ -6,23 +6,27 @@ O desafio consiste em construir uma aplicação de um timer de foco, onde é pos
 
 ## Demonstração
 
-Web:
 
-<img alt="Tela executando demosntração do projeto na versão web" width="700" src="">
+<img alt="Tela executando demosntração do projeto na versão web" width="700" src="https://user-images.githubusercontent.com/101216880/194187057-f2188a28-b9f8-4f15-a6c1-5db1034ee59b.gif">
 
 ## Funcionalidades
 
-Cada card que se encontra do lado direito, quando selecionado, vai mudar de cor e emitir um som de fundo diferente.
+- Cada card que se encontra do lado direito, quando selecionado, vai mudar de cor e emitir um som de fundo diferente.
 
-Funcionalidades esperadas dos botões:
+- Play:<br>
+ Aciona o timer
+       
+- Stop:<br>
+Para o timer<br>
+Reseta o timer para o valor anterior<br>
+Remove a seleção e silencia o som de fundo
 
-- Play : Aciona o timer;
-- Stop : Para o timer
-  Reseta o timer para o valor anterior
-  Remove a seleção e para o áudio;
-- -      : Aumenta em mais 5 minutos o tempo do timer;
-- -      : Diminui em 5 minutos o tempo do timer
-           Ao atingir o tempo mínimo de 5 (cinco) minutos não permite diminiur mais
+- (+) :<br>
+Aumenta em mais 5 minutos o tempo do timer
+
+- (-) :<br>
+Diminui em 5 minutos o tempo do timer<br>
+Ao atingir o tempo mínimo de 5 (cinco) minutos não permite diminiur mais
 
 ## Construído com:
 
@@ -38,4 +42,5 @@ Clique <a href="https://araujodai.github.io/focusTimer-2.0/">Aqui</a> para visua
 
 Escaneie o QR code e visualize no seu celular:
 
-<img height="300" width="300" alt="QR Code contendo a URL do projeto" src="">
+<img height="300" width="300" alt="QR Code contendo a URL do projeto" src="https://user-images.githubusercontent.com/101216880/194186935-45db969b-4e84-4319-9645-bcbb6f138dbf.png">
+
